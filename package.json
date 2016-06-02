@@ -7,7 +7,7 @@
     "es6",
     "snippets"
   ],
-  "repository": "https://github.com/jonboiser/atom-egghead-react-snippets.git",
+  "repository": "https://github.com/GameRubyPhone/atom-egghead-react-snippets.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -2,6 +2,15 @@
 # http://facebook.github.io/react/docs/component-api.html
 # http://facebook.github.io/react/docs/component-specs.html
 '.source.js.jsx':
+  'React Create Component (ES6)':
+    'prefix': '6cc'
+    'body': """
+      class $1 extends React.Component {
+      	render() {
+      		return $0
+      	}
+      }
+    """
   'React Component (ES6)':
     'prefix': '6rec'
     'body': """
